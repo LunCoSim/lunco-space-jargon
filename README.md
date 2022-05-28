@@ -29,6 +29,7 @@ How to understand professional space engineers
 * **[PDR]()** – Preliminary design review
 * **[V&V]()** – Verification&Validation
 * **[RUD]()** – Rapid unscheduled disassembly
+* **[ISRU]()** – In-Situ Resource Utilization
 
 ## Programs
 * **[CLPS]()** – Commercial lunar payload services
