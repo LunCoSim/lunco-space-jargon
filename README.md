@@ -18,6 +18,10 @@ How to understand professional space engineers
 * **[Yaw]()** – Rotation around the vertical axis
 * **[Pitch]()** – Rotation around the side-to-side axis
 * **[Roll]()** – Rotation around the front-to-back axis
+* **[MECO]()** – Main Engine Cut Off
+* **[SES]()** – Second Engine Start
+* **[SECO]()** – Second Engine Cut Off
+* **[MAXQ]()** – Maximum Dynamic Pressure
 
 ## Modelling
 * **[CAD]()** – Computer aided design
@@ -38,6 +42,7 @@ How to understand professional space engineers
 
 ## Programs
 * **[CLPS]()** – Commercial lunar payload services
+* **[CRS]()** – Commercial Resupply Program
 
 ## Orbits
 * **[LEO]()** – Low Earth Orbit
@@ -56,7 +61,9 @@ How to understand professional space engineers
 
 ## Rockets
 * **[LOH/LOX]()** – Liquid Hydrogen/Oxygen
+* **[RP-1]()** – Rocket Grade Kerosene
 * **[SRB]()** – Solid Rocket Booster
+* **[SSTO]()** – Single Stage to Orbit
   
 ## Others
 * **[Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)** – 
