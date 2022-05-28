@@ -49,5 +49,8 @@ How to understand professional space engineers
 * **[Mechanical engineer]()** –   
 * **[Electrical engineer]()** –    
 
+## Rockets
+* **[LOH/LOX]()** – Liquitd Hydrogen/Oxygen
+  
 ## Others
 * **[Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)** – 
