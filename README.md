@@ -14,6 +14,11 @@ How to understand professional space engineers
 * **[SW]()** – Software
 * **[TT&C]()** – Telemetry, Tracking, and Command
 
+## Flight Control
+* **[Yaw]()** – Rotation around the vertical axis
+* **[Pitch]()** – Rotation around the side-to-side axis
+* **[Roll]()** – Rotation around the front-to-back axis
+
 ## Modelling
 * **[CAD]()** – Computer aided design
 * **[CAE]()** – Computer aided engineering
@@ -35,13 +40,13 @@ How to understand professional space engineers
 * **[CLPS]()** – Commercial lunar payload services
 
 ## Orbits
-* **[MEO]()** – 
-* **[LEO]()** – 
-* **[GEO]()** – 
-* **[SSO]()** – 
-* **[HEO]()** – 
-* **[HEO]()** – 
-* **[Molniya]()** –   
+* **[LEO]()** – Low Earth Orbit
+* **[MEO]()** – Medium Earth Orbit
+* **[GEO]()** – Geostationary Orbit 
+* **[SSO]()** – Sun Synchronous Orbit
+* **[HEO]()** – High Earth Orbit
+* **[HEO]()** – Highly Elliptical Orbit
+* **[Molniya]()** – Similar to a Highly Elliptical Orbit with an inclination greater than 63.4 degrees
   
 ## Professions
 * **[Systems engineer]()** –   
@@ -50,7 +55,8 @@ How to understand professional space engineers
 * **[Electrical engineer]()** –    
 
 ## Rockets
-* **[LOH/LOX]()** – Liquitd Hydrogen/Oxygen
+* **[LOH/LOX]()** – Liquid Hydrogen/Oxygen
+* **[SRB]()** – Solid Rocket Booster
   
 ## Others
 * **[Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)** – 
