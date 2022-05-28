@@ -12,6 +12,8 @@ How to understand professional space engineers
 * **[PCB]()** – 
 * **[HW]()** – hardware
 * **[SW]()** – software
+* **[TT&C]()** – Telemetry, Tracking, and Command
+* **[]()** – 
 
 ## Modelling
 * **[CAD]()** – 
@@ -25,6 +27,7 @@ How to understand professional space engineers
 * **[PAR]()** – 
 * **[CDR]()** – 
 * **[PDR]()** – 
+* **[V&V]()** – 
 
 ## Orbits
 * **[MEO]()** – 
