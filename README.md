@@ -5,8 +5,8 @@ How to understand professional space engineers
 * **[PUG]()** – every rocket has it's payload user guide for example [Falcon 9 PUG](https://www.mach5lowdown.com/wp-content/uploads/PUG/falcon_9_users_guide_rev_2.0-1.pdf)
 * **[ICD]()** – Interface control document
 * **[IDD]()** – Interface definition document
-* **[EDS]()** – Enviromental design specification
-* **[Data sheet]()** – doc with detailed techincal info about the device
+* **[EDS]()** – Environmental design specification
+* **[Data sheet]()** – doc with detailed technical info about the device
 
 ## Devices
 * **[PCB]()** – Printed circuit board 
@@ -27,7 +27,7 @@ How to understand professional space engineers
 * **[CAD]()** – Computer aided design
 * **[CAE]()** – Computer aided engineering
 * **[FEA]()** – Finite element analysis
-* **[CFD]()** – Computational fluid dinamics
+* **[CFD]()** – Computational fluid dynamics
 * **[MBSE]()** – Model based systems engineering
 * **[Digital twin]()** – computer model of the physical system
 * **[BIM]()** – Building Information Modeling
