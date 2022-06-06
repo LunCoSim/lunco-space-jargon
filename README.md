@@ -23,6 +23,8 @@ How to understand professional space engineers
 * **[SES]()** – Second Engine Start
 * **[SECO]()** – Second Engine Cut Off
 * **[MAXQ]()** – Maximum Dynamic Pressure
+* **[RCS]()** – Reactive Control System
+* **[SAS]()** – Stability Augmentation System
 
 ## Modelling
 * **[CAD]()** – Computer aided design
@@ -42,8 +44,10 @@ How to understand professional space engineers
 * **[ISRU]()** – In-Situ Resource Utilization
 
 ## Programs
-* **[CLPS]()** – Commercial lunar payload services
+* **[CLPS]()** – Commercial Lunar Payload Services
+* **[COTS]()** – Commercial Orbital Transportation Services
 * **[CRS]()** – Commercial Resupply Program
+* **[CCP]()** – Commercial Crew Program
 
 ## Orbits
 * **[LEO]()** – Low Earth Orbit
@@ -53,6 +57,8 @@ How to understand professional space engineers
 * **[HEO]()** – High Earth Orbit
 * **[HEO]()** – Highly Elliptical Orbit
 * **[Molniya]()** – Similar to a Highly Elliptical Orbit with an inclination greater than 63.4 degrees
+* **[LTO]()** – Lunar Transfer Orbit
+* **[MTO]()** – Mars Transfer Orbit
   
 ## Professions
 * **[Systems engineer]()** –   
