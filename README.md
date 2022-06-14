@@ -13,6 +13,7 @@ How to understand professional space engineers
 * **[HW]()** – Hardware
 * **[SW]()** – Software
 * **[TT&C]()** – Telemetry, Tracking, and Command
+* **[TM/TC]()** – telemetry/telecommand, same as TT&C
 * **[FlatSat]()** – Engineering prototype. Real HW connection yet not assembled
 
 ## Flight Control
