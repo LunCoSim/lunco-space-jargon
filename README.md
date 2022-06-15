@@ -43,6 +43,7 @@ How to understand professional space engineers
 * **[V&V]()** – Verification&Validation
 * **[RUD]()** – Rapid unscheduled disassembly
 * **[ISRU]()** – In-Situ Resource Utilization
+* **[TRL 1-9]()** – technology readiness level, 1 - basic research, 9 – successful mission
 
 ## Programs
 * **[CLPS]()** – Commercial Lunar Payload Services
