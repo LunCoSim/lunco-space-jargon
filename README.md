@@ -16,16 +16,18 @@ How to understand professional space engineers
 * **[TM/TC]()** – telemetry/telecommand, same as TT&C
 * **[FlatSat]()** – Engineering prototype. Real HW connection yet not assembled
 
-## Flight Control
+## Vehicle Control
 * **[Yaw]()** – Rotation around the vertical axis
 * **[Pitch]()** – Rotation around the side-to-side axis
 * **[Roll]()** – Rotation around the front-to-back axis
 * **[MECO]()** – Main Engine Cut Off
+* **[QD]()** – Quick Disconnect
 * **[SES]()** – Second Engine Start
 * **[SECO]()** – Second Engine Cut Off
-* **[MAXQ]()** – Maximum Dynamic Pressure
+* **[MAXQ or Q]()** – Maximum Dynamic Pressure
 * **[RCS]()** – Reactive Control System
 * **[SAS]()** – Stability Augmentation System
+* **[RF]()** – Radio Frequency
 
 ## Modelling
 * **[CAD]()** – Computer aided design
@@ -63,16 +65,29 @@ How to understand professional space engineers
 * **[MTO]()** – Mars Transfer Orbit
   
 ## Professions
-* **[Systems engineer]()** –   
+* **[Systems engineer]()** – 
+* **[Chemical engineer]()** –  
+* **[Information engineer]()** –
 * **[Thermal engineer]()** –   
-* **[Mechanical engineer]()** –   
-* **[Electrical engineer]()** –    
+* **[Mechanical engineer]()** –
+* **[Materials engineer]()** –   
+* **[Process engineer]()** –
+* **[Electrical engineer]()** –   
+* **[Quantum engineer]()** –
+* **[Nuclear engineer]()** – 
 
 ## Rockets
 * **[LOH/LOX]()** – Liquid Hydrogen/Oxygen
+* **[TEA-TEB]()** – Triethylaluminum-Triethylborane
+* **[GN2]()** – Gaseous Nitrogen
 * **[RP-1]()** – Rocket Grade Kerosene
 * **[SRB]()** – Solid Rocket Booster
 * **[SSTO]()** – Single Stage to Orbit
+* **[T-E]()** – Transporter Erector
+* **[MST]()** – Mobile Service Tower
+* **[VAB]()** – Vehicle Assembly Building
   
 ## Others
 * **[Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)** – 
+* **[NASA REFERENCES](https://www.nasa.gov/pdf/632702main_NASA_FY13_Budget-Reference-508.pdf)** – 
+* **[Pagheca's Acronyms list](https://forum.nasaspaceflight.com/index.php?topic=34802.0)** – 
